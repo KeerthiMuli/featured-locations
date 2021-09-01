@@ -3,6 +3,10 @@
 ## Objective
 ## Client
 ## Team Members and their roles
+- Shiva Ram Kothapally - QA Analyst
+- Keerthi Muli - Backend Developer
+- Jaya kumar Saga - Team Lead
+- Rasagna Reddy Banda - UI Developer
 ## Functional Requirements
 ### Authentication page:
 1.	Provide Username, password
