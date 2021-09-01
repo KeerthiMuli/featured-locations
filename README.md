@@ -9,4 +9,6 @@ The primary goal of the city guide app designed for Maryville is to provide user
 ## Bidder Qualifications
 ## Performance Metrics
 ## Schedule Duration
+Module 1: Acting as clients and building an architecture of the App<br>
+Module 2: Talk through the initial planning and design<br>
 ## Development Details
