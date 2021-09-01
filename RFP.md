@@ -2,6 +2,10 @@
 ## Statement Of Purpose 
 ## Objective
 ## Client
+- Dr. Denise Case
+- Assistant Professor,Northwest Missouri State University
+- 44691-02 Graduate Directed Project
+- Fall 2021
 ## Team Members and their roles
 - Shiva Ram Kothapally - QA Analyst
 - Keerthi Muli - Backend Developer
