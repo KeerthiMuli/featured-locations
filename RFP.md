@@ -63,6 +63,9 @@ Below are the expected entites
     - ShowedOn
     - NumberofDaysBefore
 
+## ER Diagram
+ ![ER](https://github.com/KeerthiMuli/featured-locations/blob/main/images/locationsER.png)
+
 ## Bidder Qualifications
 ## Performance Metrics
 ## Schedule Duration
