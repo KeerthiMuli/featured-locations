@@ -38,6 +38,31 @@ The primary goal of the city guide app designed for Maryville is to provide user
     -	Hotels
 2.	Provide a ***"Button"*** where user can add a location if he wants to, this functionality is done by using CRUD operations in the backend
 
+## Entities 
+Below are the expected entites
+- Users
+    - Username
+    - Password
+    - CreatedOn
+    - isDeleted
+ - Locations
+    - LocationId
+    - Name
+    - OpenHours
+    - Address
+    - City
+    - State
+    - Zip
+    - CreatedBy
+    - CreatedOn
+ - LocationPhone
+    - LocationId
+    - Phone
+  - LastWeekLocations
+    - LocationId
+    - ShowedOn
+    - NumberofDaysBefore
+
 ## Bidder Qualifications
 ## Performance Metrics
 ## Schedule Duration
