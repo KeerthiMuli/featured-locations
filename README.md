@@ -62,6 +62,8 @@ Below are the expected entites
     - LocationId
     - ShowedOn
     - NumberofDaysBefore
+## ER Diagram
+ ![ER](featured-locations/locationsER.png)
 
 ## Bidder Qualifications
 ## Performance Metrics
