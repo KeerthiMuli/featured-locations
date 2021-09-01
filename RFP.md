@@ -22,13 +22,15 @@
 
 ### More locations:
 1.	Provide a list of locations of the city like 
-    - Hospitals
+    -   Hospitals
     -	Restaurants
     -	Gas stations
-    -	Grocery stores 
+    -	Hotels
 2.	Provide a ***"Button"*** where user can add a location if he wants to, this functionality is done by using CRUD operations in the backend
 
 ## Bidder Qualifications
 ## Performance Metrics
 ## Schedule Duration
+Module 1: Acting as clients and building an architecture of the App<br>
+Module 2: Talk through the initial planning and design<br>
 ## Development Details
