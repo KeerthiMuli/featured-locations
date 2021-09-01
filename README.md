@@ -4,6 +4,10 @@ We would  like to build an app wherein we'll develop a city guide for Maryville.
 ## Objective
 The primary goal of the city guide app designed for Maryville is to provide users with accurate, up-to-date, and relevant information about everything they need to know when visiting Maryville. It is a web-based platform that stores information about Maryville City and assists all users who have just visited our website and registered. They may search for prominent places in the city and also users can add locations and do updates without the assistance of a human guide. The website provides comprehensive information about hotels, hospitals, schools, and gas stations in Maryville. Any anybody with a basic understanding of the internet can utilize this website.
 ## Client
+- Dr. Denise Case
+- Assistant Professor,Northwest Missouri State University
+- 44691-02 Graduate Directed Project
+- Fall 2021
 ## Team Members and their roles
 - Shiva Ram Kothapally - QA Analyst
 - Keerthi Muli - Backend Developer
