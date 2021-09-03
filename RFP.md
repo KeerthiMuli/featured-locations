@@ -61,7 +61,7 @@ Below are the expected entites
     - Phone
 
 ## ER Diagram
- ![ER](https://github.com/KeerthiMuli/featured-locations/blob/main/images/locationsER.png)
+ ![ER](https://github.com/KeerthiMuli/featured-locations/blob/main/images/LocationsER.png)
 
 ## Bidder Qualifications
 ## Performance Metrics
