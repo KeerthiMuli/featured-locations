@@ -55,13 +55,10 @@ Below are the expected entites
     - Zip
     - CreatedBy
     - CreatedOn
+    - LastShowed
  - LocationPhone
     - LocationId
     - Phone
-  - LastWeekLocations
-    - LocationId
-    - ShowedOn
-    - NumberofDaysBefore
 
 ## ER Diagram
  ![ER](https://github.com/KeerthiMuli/featured-locations/blob/main/images/locationsER.png)
