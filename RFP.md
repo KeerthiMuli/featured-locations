@@ -36,7 +36,7 @@ The primary goal of the city guide app designed for Maryville is to provide user
     -	Restaurants
     -	Gas stations
     -	Hotels
-2.	Provide a ***"Button"*** where user can add a location if he wants to, this functionality is done by using CRUD operations in the backend
+2.	Provide a ***"Button"*** where user can add a location if they wants to, this functionality is done by using CRUD operations in the backend
 
 ## Entities 
 Below are the expected entites
