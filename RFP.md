@@ -22,7 +22,7 @@ The primary goal of the city guide app designed for Maryville is to provide user
 5.	Provide a ***“Signup”*** button if it is a new user, this helps a new user to enter his information in a signup form
 
 ### Featured spot of the day:
-1.	User enters to this page after successful login
+1.	User enters to this page after login
 2.	Give a title named ***“Maryville City”***
 3.	Provide a heading with featured spot of the day ex: “Colden pond”
 4.	Provide image of the shown spot
