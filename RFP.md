@@ -56,12 +56,10 @@ Below are the expected entites
     - CreatedBy
     - CreatedOn
     - LastShowed
- - LocationPhone
-    - LocationId
     - Phone
 
 ## ER Diagram
- ![ER](https://github.com/KeerthiMuli/featured-locations/blob/main/images/LocationsER.png) 
+ ![ER](https://github.com/KeerthiMuli/featured-locations/blob/main/images/ERFeaturedLocations.png) 
 
 ## Bidder Qualifications
 ## Performance Metrics
