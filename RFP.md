@@ -69,3 +69,4 @@ Below are the expected entites
 Module 1: Acting as clients and building an architecture of the App<br>
 Module 2: Talk through the initial planning and design<br>
 ## Development Details
+To build the app and deliver the entire functionality successfully: a Team Lead, a UI developer, a Backend Developer, and a Quality Analyst will be needed. We've created stories for each activity that has to be completed in order to accomplish the deliverables, and they've been allocated among all of the team according to the requirements. Every development activity includes code reviews, unit testing, and problem fixes at the same time.
