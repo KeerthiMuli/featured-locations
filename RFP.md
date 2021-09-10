@@ -68,7 +68,12 @@ Below are the expected entites
 4. Always strive to finish project-related duties within the project's set timeframe.
 ## Performance Metrics
 ## Schedule Duration
-Module 1: Acting as clients and building an architecture of the App<br>
-Module 2: Talk through the initial planning and design<br>
+Module 1: Overview of the course<br>
+Module 2: Building RFP<br>
+Module 3: Developing detailed proposals<br>
+Module 4: Reviewing the proposals<br>
+Module 5: Begining of Sprint<br>
+Module 6: Continue implementation<br>
+Module 7: Finalising GDP1 and planning GDP2<br>
 ## Development Details
 To build the app and deliver the entire functionality successfully: a Team Lead, a UI developer, a Backend Developer, and a Quality Analyst will be needed. The front end will be designed with HTML and CSS, the backend will be built with Java, and any supporting public APIs for Maryville city or Postgres SQl will be used. Stories for each activity should be created in order to accomplish the deliverables, and should be allocated among all of the team according to the requirements. Every development activity includes code reviews, unit testing, and problem fixes at the same time.
