@@ -67,6 +67,7 @@ Below are the expected entites
 3. Professional and clear communication within the team is usually beneficial in achieving effective outcomes.
 4. Always strive to finish project-related duties within the project's set timeframe.
 ## Performance Metrics
+To check the performance of the app we will be using Lighthouse tool provided by Google. Lighthouse should show all categories like performance, Progressive web app, best practices, Accessibility and others in green.
 ## Schedule Duration
 Module 1: Overview of the course<br>
 Module 2: Building RFP<br>
