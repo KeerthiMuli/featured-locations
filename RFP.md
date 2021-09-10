@@ -9,10 +9,10 @@ The primary goal of the city guide app designed for Maryville is to provide user
 - 44691-02 Graduate Directed Project
 - Fall 2021
 ## Team Members and their roles
-- Shiva Ram Kothapally - QA Analyst
-- Keerthi Muli - Backend Developer
+- Shiva Ram Kothapally - Project Manager
+- Keerthi Muli - Adviser
 - Jaya kumar Saga - Team Lead
-- Rasagna Reddy Banda - UI Developer
+- Rasagna Reddy Banda - Designer
 ## Functional Requirements
 ### Authentication page:
 1.	Provide Username, password
