@@ -64,6 +64,8 @@ Below are the expected entites
 ## Bidder Qualifications
 1. Before commencing any project-related job, be sure that all of the requirements have been discussed and are extremely clear.
 2. Always be prepared to make any further improvements that may be required in the future.
+3. Professional and clear communication within the team is usually beneficial in achieving effective outcomes.
+4. Always strive to finish project-related duties within the project's set timeframe.
 ## Performance Metrics
 ## Schedule Duration
 Module 1: Acting as clients and building an architecture of the App<br>
