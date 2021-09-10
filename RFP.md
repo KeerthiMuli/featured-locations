@@ -72,7 +72,7 @@ Module 1: Overview of the course<br>
 Module 2: Building RFP<br>
 Module 3: Developing detailed proposals<br>
 Module 4: Reviewing the proposals<br>
-Module 5: Begining of Sprint<br>
+Module 5: Beginning of Sprint<br>
 Module 6: Continue implementation<br>
 Module 7: Finalising GDP1 and planning GDP2<br>
 ## Development Details
