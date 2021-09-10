@@ -62,6 +62,8 @@ Below are the expected entites
  ![ER](https://github.com/KeerthiMuli/featured-locations/blob/main/images/ERFeaturedLocations.png) 
 
 ## Bidder Qualifications
+1. Before commencing any project-related job, be sure that all of the requirements have been discussed and are extremely clear.
+2. Always be prepared to make any further improvements that may be required in the future.
 ## Performance Metrics
 ## Schedule Duration
 Module 1: Acting as clients and building an architecture of the App<br>
