@@ -78,4 +78,6 @@ Module 7: Finalising GDP1 and planning GDP2<br>
 ## Development Details
 To build the app and deliver the entire functionality successfully: a Team Lead, a UI developer, a Backend Developer, and a Quality Analyst will be needed. The front end will be designed with HTML and CSS, the backend will be built with Java, and any supporting public APIs for Maryville city or Postgres SQl will be used. Stories for each activity should be created in order to accomplish the deliverables, and should be allocated among all of the team according to the requirements. Every development activity includes code reviews, unit testing, and problem fixes at the same time.
 ## Mockup Screens
+![Featured Spot](https://github.com/KeerthiMuli/featured-locations/blob/main/images/Featured%20spot.png)
+![Login Page](https://github.com/KeerthiMuli/featured-locations/blob/main/images/Login%20page.png)
 ![City Guide](https://github.com/KeerthiMuli/featured-locations/blob/main/images/CityGuide.jpeg)
