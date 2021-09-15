@@ -82,3 +82,5 @@ To build the app and deliver the entire functionality successfully: a Team Lead,
 ![Featured Spot](https://github.com/KeerthiMuli/featured-locations/blob/main/images/Featured%20spot.png)
 ![Login Page](https://github.com/KeerthiMuli/featured-locations/blob/main/images/Login%20page.png)
 ![City Guide](https://github.com/KeerthiMuli/featured-locations/blob/main/images/CityGuide.jpeg)
+## References
+[Reference Link](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
